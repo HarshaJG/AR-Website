@@ -1,8 +1,8 @@
-# Augmentour
+# AR Navigation App 
 
 ## Overview
 
-**Augmentour** is an Augmented Reality (AR) web app designed to help tourists explore new places. By marking Points of Interest (POIs) with 3D AR markers and providing real-time AR navigation, Augmentour offers an engaging and informative way to experience a city or location. The app uses AR.js and A-Frame for AR functionalities and integrates OpenStreetMap and the Mapbox API for navigation and mapping.
+**AR Navigation App** is an Augmented Reality (AR) web app designed to help tourists explore new places. By marking Points of Interest (POIs) with 3D AR markers and providing real-time AR navigation, AR Navigation App offers an engaging and informative way to experience a city or location. The app uses AR.js and A-Frame for AR functionalities and integrates OpenStreetMap and the Mapbox API for navigation and mapping.
 
 ## Features
 
@@ -21,7 +21,7 @@
 
 ## Getting Started
 
-To run Augmentour locally, follow these steps:
+To run AR Navigation App locally, follow these steps:
 
 ### Prerequisites
 
@@ -48,7 +48,7 @@ To deploy the app, push the code to your repository and connect it to Vercel for
 
 ### Usage
 
-1. Open the [Augmentour](https://augmentour.vercel.app) app in your browser.
+1. Open the [AR Navigation App](https://AR Navigation App.vercel.app) app in your browser.
 2. Explore the AR space: Move your device to find 3D markers for POIs.
 3. Interact with POIs: Click on the markers to see details from the virtual tour guide.
 4. Navigate: Follow the 3D arrows for real-time navigation to your destination.
